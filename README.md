@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xassasinsoulx" alt="xassasinsoulx" /></a> </p>
 
-- 🌱 I’m currently learning **Databases and Android programming**
+- 🌱 I’m currently learning **Network Security and Embedded System Programming**
 
-- 💬 Ask me about **java, python,**
+- 💬 Ask me about **C, Assembly, Java, Python,**
 
-- 📫 How to reach me **info@erdem.ml**
+- 📫 How to reach me **info@erdemcalikoglu.com**
 
-- 📄 Know about my experiences [https://www.erdemcalikoglu.ml](https://www.erdemcalikoglu.ml)
+- 📄 Know about my experiences [https://www.erdemcalikoglu.ml](https://www.erdemcalikoglu.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
