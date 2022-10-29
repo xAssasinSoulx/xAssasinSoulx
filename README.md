@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **info@erdemcalikoglu.com**
 
-- 📄 Know about my experiences [https://www.erdemcalikoglu.ml](https://www.erdemcalikoglu.com)
+- 📄 Know about my experiences [https://www.erdemcalikoglu.com](https://www.erdemcalikoglu.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
