@@ -12,8 +12,8 @@ Welcome my GitHub profile. I’m currently working on Java and Network Security.
 
 
 <a href="https://github.com/xassasinsoulx/github-readme-stats">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=rection&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-    <img height="180em" align="center" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rection&layout=compact&langs_count=7&theme=dark" />
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=xassasinsoulx&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+    <img height="180em" align="center" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xassasinsoulx&layout=compact&langs_count=7&theme=dark" />
 </a>
     
 <br>
