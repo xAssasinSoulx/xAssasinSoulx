@@ -3,7 +3,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/dobrodetell/)](https://www.instagram.com/dobrodetell/)
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&link=https://www.erdemcalikoglu.com/)](https://www.erdemcalikoglu.com/)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://github.com/xassasinsoulx)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=rection)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=xassasinsoulx)
 
 Welcome my GitHub profile. I’m currently working on Java and Network Security.
 
