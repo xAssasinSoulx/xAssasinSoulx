@@ -19,4 +19,4 @@ Welcome my GitHub profile. I’m currently working on Java and Network Security.
 <br>
     
 
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=xassasinsoulx&unique=yes&width=765&count=5)
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=xassasinsoulx&unique=yes&width=761&count=5)
