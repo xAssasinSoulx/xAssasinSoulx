@@ -10,7 +10,7 @@ Welcome my GitHub profile. I’m currently working on Java and Network Security.
 
 ### My Stats 🔭
 
-![Erdem's GitHub stats](https://github-stats-xassasinsoulx.vercel.app/api?username=xassasinsoulx&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
+![Erdem's GitHub stats](https://github-stats-xassasinsoulx.vercel.app/api?username=xassasinsoulx&count_private=true&show_icons=true&theme=radical&include_all_commits=true*card_width=200)
 [![Top Langs](https://github-stats-xassasinsoulx.vercel.app/api/top-langs/?username=xassasinsoulx&layout=compact&theme=dark&langs_count=6)](https://github.com/xassasinsoulx/github-stats)
 
     
