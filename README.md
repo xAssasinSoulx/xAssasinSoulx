@@ -10,9 +10,7 @@
   <a href="https://github.com/xassasinsoulx" target="_blank">
     <img src="https://img.shields.io/badge/-Github-232323?style=for-the-badge&logo=Github&logoColor=white" alt="Github">
   </a>
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxassasinsoulx%2Fxassasinsoulx&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="hits"/>
-   </a>
+  <img src="https://komarev.com/ghpvc/?username=xassasinsoulx" alt="visitors"/>
 </p>
 
 Welcome to my corner of GitHub! I'm passionate about software development with a current focus on **Java** and **Network Security**. Always eager to learn and explore new technologies.
