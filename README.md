@@ -21,11 +21,27 @@ Welcome to my corner of GitHub! I'm passionate about software development with a
 
 ### 🛠️ Tech Stack & Tools
 
-*   **Languages:** Java, Python, C/C++ `(You can adjust these based on your actual skills)`
-*   **Frameworks:** Spring Boot `(Add relevant frameworks)`
-*   **Security Tools:** Wireshark, Nmap `(Add relevant tools)`
-*   **Databases:** SQL, NoSQL `(Add relevant databases)`
-*   **Other:** Docker, Git, Linux `(Add other relevant technologies)`
+<p align="left">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>&nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>&nbsp;
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>&nbsp;
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>&nbsp;
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>&nbsp;
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>&nbsp;
+  <!-- Security -->
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>&nbsp;
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>&nbsp;
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>&nbsp; <!-- Assuming SQL is MySQL, adjust if different -->
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>&nbsp; <!-- Assuming NoSQL is MongoDB, adjust if different -->
+  <!-- Other -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>&nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>&nbsp;
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>&nbsp;
+</p>
 
 ---
 
