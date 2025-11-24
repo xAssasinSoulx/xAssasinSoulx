@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello there, I'm Erdem!</h1>
 
 <p align="center">
-  <em>Production Application Support Analyst @ CIBC Capital Markets · CS @ York (Lassonde) · eFX · Backend · Security</em>
+  <em>Consultant, Production Application Support @ CIBC Capital Markets · CS @ York (Lassonde) · eFX · Backend · Security</em>
 </p>
 
 <p align="center">
